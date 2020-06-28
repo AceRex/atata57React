@@ -27,6 +27,7 @@ import TopSelling from "./components/Pages/TopSelling";
 import Blog from "./components/blog/Blog";
 import Checkout from "./components/Pages/Checkout";
 import AdminDashboard from "./components/admin/dashboard";
+import BlogPreview from "./components/blog/BlogPreview";
 
 class App extends Component {
   render() {
@@ -45,6 +46,7 @@ class App extends Component {
         <Route exact path="/Details" component={PreviewPage} />
         <Route exact path="/TopSelling" component={TopSelling} />
         <Route exact path="/Blog" component={Blog} />
+        <Route exact path="/blogPreview" component={BlogPreview} />
         <Route exact path="/IndividualRegistration" component={RegisterUser} />
         <Route exact path="/atataPay" component={AtataPay} />
         <Route exact path="/atataWallet" component={AtataWallet} />

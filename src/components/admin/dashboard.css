@@ -1,0 +1,17 @@
+.ui.grid{
+    width: 97% !important;
+    margin: auto !important;
+}
+.ui.menu.fluid, .ui.vertical.menu.fluid{
+    border: none !important;
+    text-align: center;
+}
+.ui.menu .item{
+    padding: 20px;    
+    border-radius: 0% !important;    
+    font-size: 14px;
+    font-weight: 500;
+}
+.ui.menu .active.item{
+    color: var(--colorGreen) !important;
+}

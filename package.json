@@ -1,0 +1,65 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-select": "^1.13.13",
+    "elegant-icons": "0.0.1",
+    "primereact": "^4.2.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-country-flag": "^2.0.1",
+    "react-country-region-selector": "^2.1.0",
+    "react-dom": "^16.13.0",
+    "react-flags-select": "^1.1.12",
+    "react-hook-form": "^5.4.2",
+    "react-mdl": "^2.1.0",
+    "react-number-format": "^4.4.1",
+    "react-owl-carousel": "^2.3.1",
+    "react-phone-number-input": "^3.0.22",
+    "react-rater": "^5.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-select-currency": "^1.0.7",
+    "react-sidebar": "^3.0.2",
+    "react-slick": "^0.25.2",
+    "react-star-rating": "^1.4.2",
+    "react-toolbox": "^2.0.0-beta.13",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-template-literals": "^6.22.0"
+  }
+}

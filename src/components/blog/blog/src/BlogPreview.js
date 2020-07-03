@@ -12,7 +12,7 @@ import MainFeaturedPost from "./MainFeaturedPost";
 import FeaturedPost from "./FeaturedPost";
 import BlogCard from "./blogCard";
 import Sidebar from "./Sidebar";
-import Footer from "../footer/footer"
+import Footer from "../../../footer/footer"
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {

@@ -2,8 +2,11 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Button } from "@material-ui/core";
 import { Link as BrowserLink } from "@material-ui/core";
-import axios from "axios";
-import { BaseUrl } from "../BaseUrl";
+// import axios from "axios";
+import { BaseUrl } from "../../../BaseUrl";
+
+
+
 export default class BlogPage extends Component {
   constructor() {
     super();
@@ -95,3 +98,5 @@ const Card = styled.div`
     font-size: 10px;
   }
 `;
+
+export default BlogCard;

@@ -10,7 +10,7 @@ import Header from "./Header";
 import MainFeaturedPost from "./MainFeaturedPost";
 import FeaturedPost from "./FeaturedPost";
 import BlogCard from "./blogCard";
-import Footer from "../footer/footer";
+import Footer from "../../../footer/footer";
 import Sidebar from "./Sidebar";
 
 const useStyles = makeStyles((theme) => ({

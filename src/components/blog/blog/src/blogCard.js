@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Button } from "@material-ui/core";
 import { Link as BrowserLink } from "@material-ui/core";
-// import axios from "axios";
+import axios from "axios";
 import { BaseUrl } from "../../../BaseUrl";
 
 
@@ -98,5 +98,3 @@ const Card = styled.div`
     font-size: 10px;
   }
 `;
-
-export default BlogCard;

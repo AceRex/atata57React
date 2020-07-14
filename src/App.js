@@ -24,10 +24,8 @@ import AtataWallet from "../src/components/AtataServicesPage/Atata-walletPage";
 import AtataWarehouse from "../src/components/AtataServicesPage/Atata-warehousePage";
 import AtataPay from "../src/components/AtataServicesPage/AtataPay-Page";
 import TopSelling from "./components/Pages/TopSelling";
-import Blog from "./components/blog/Blog";
 import Checkout from "./components/Pages/Checkout";
 import AdminDashboard from "./components/admin/dashboard";
-import BlogPreview from "./components/blog/BlogPreview";
 
 class App extends Component {
   render() {
